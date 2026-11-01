@@ -15,8 +15,6 @@ confirms** them — there is no payment gateway.
 ## 📖 Documentation
 
 - **[docs/INSTALLATION.md](docs/INSTALLATION.md)** — precise, step-by-step setup for a cloned copy (+ seeded logins)
-- **[docs/SYSTEM-DOCUMENTATION.md](docs/SYSTEM-DOCUMENTATION.md)** — architecture, roles, data model, API, workflows
-- **[docs/diagrams/](docs/diagrams/)** — ER diagram and use-case diagram sources (Mermaid / PlantUML)
 
 ---
 
